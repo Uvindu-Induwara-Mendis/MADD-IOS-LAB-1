@@ -17,9 +17,9 @@ let mark = 78
 print("The student received \(mark) marks for \(module).")
 
 // Activity 4
-let name = "Janith Kavinda"
+let name = "Uvindu Induwara Mendis"
 let year = 4
 let semester = 2
-let gpa = 3.65
+let gpa = 3.48
 
 print("\(name) is a Year \(year) Semester \(semester) student with a GPA of \(gpa).")

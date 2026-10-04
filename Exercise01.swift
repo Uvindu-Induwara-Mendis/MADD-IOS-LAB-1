@@ -20,7 +20,7 @@ print(studentCount)
 // Activity 1
 let moduleCode = "SE4041"
 let moduleName = "Mobile Application Design & Development"
-let studentName = "Janith Kavinda"
+let studentName = "Uvindu Induwara Mendis"
 var studentAge = 23
 var numberOfStudents = 50
 

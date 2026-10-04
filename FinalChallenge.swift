@@ -1,12 +1,12 @@
 // Final Practical Task – Student Result Analyzer
 
 // Part A – Student Information
-let studentName = "Janith Kavinda"
-let studentID = "IT22100498"
+let studentName = "Uvindu Induwara Mendis"
+let studentID = "IT22177100"
 let moduleCode = "SE4041"
-let assignmentMark = 75.0
-let examMark = 68.0
-var email: String? = "janith@tappyly.com"
+let assignmentMark = 79.0
+let examMark = 84.0
+var email: String? = "uvindumendis19@gmail.com"
 
 // Part B – Calculate the Final Mark
 let finalMark = assignmentMark * 0.40 + examMark * 0.60

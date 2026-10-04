@@ -25,12 +25,12 @@ print(isRegistered2)
 print(grade2)
 
 // Activity 2
-let studentID: String = "IT22100498"
-let studentName: String = "Janith Kavinda"
+let studentID: String = "IT22177100"
+let studentName: String = "Uvindu Induwara Mendis"
 let year: Int = 4
-let gpa: Double = 3.72
+let gpa: Double = 3.48
 var registeredStatus = true
-let grade: Character = "A"
+let grade: Character = "A+"
 
 print(studentID)
 print(studentName)
